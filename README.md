@@ -1,4 +1,4 @@
-Freeminer_intro_map
+Introduction to Freeminer Map
 ===================
 
 A map for new players to Freeminer.
