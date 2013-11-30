@@ -1,10 +1,10 @@
 breath = 65535
 hp = 14
 name = singleplayer
-pitch = 0.1
-position = (510.8,275,-1438)
+pitch = 1.68
+position = (510.32,275,-1438)
 version = 1
-yaw = 179.59
+yaw = 179.77
 PlayerArgsEnd
 List main 32
 Width 0
